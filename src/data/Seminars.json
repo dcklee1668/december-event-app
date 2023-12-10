@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Advanced Materials in Automotive Design",
+    "location": "Room 101",
+    "startTime": "9:30 AM",
+    "shortDescription": "Exploring the use of advanced materials in modern vehicle design."
+  },
+  {
+    "id": 2,
+    "title": "Autonomous Driving and AI Integration",
+    "location": "Hall A",
+    "startTime": "11:00 AM",
+    "shortDescription": "Understanding the integration of AI in autonomous driving systems."
+  },
+  {
+    "id": 3,
+    "title": "Future Trends in Hybrid Vehicle Technology",
+    "location": "Auditorium C",
+    "startTime": "1:30 PM",
+    "shortDescription": "Examining upcoming trends and innovations in hybrid vehicle tech."
+  },
+  {
+    "id": 4,
+    "title": "Maintenance Challenges in Electric Cars",
+    "location": "Conference Room D",
+    "startTime": "3:00 PM",
+    "shortDescription": "Discussion on maintenance complexities in electric vehicle systems."
+  },
+  {
+    "id": 5,
+    "title": "Cybersecurity in Connected Vehicles",
+    "location": "Exhibition Hall B",
+    "startTime": "4:30 PM",
+    "shortDescription": "Exploring cybersecurity risks and solutions in connected vehicles."
+  },
+  {
+    "id": 6,
+    "title": "Optimizing Automotive Repair Order Workflow",
+    "location": "Room 301",
+    "startTime": "9:00 AM",
+    "shortDescription": "Strategies to streamline and optimize the automotive repair order process."
+  },
+  {
+    "id": 7,
+    "title": "Digital Transformation in Repair Order Management",
+    "location": "Hall B",
+    "startTime": "10:30 AM",
+    "shortDescription": "Adapting digital tools"
+  },
+  {
+    "id": 8,
+    "title": "Enhancing Vehicle Lookup Processes",
+    "location": "Room 201",
+    "startTime": "9:30 AM",
+    "shortDescription": "Strategies to enhance and optimize vehicle lookup processes for automotive businesses."
+  },
+  {
+    "id": 9,
+    "title": "Mastering VIN Decoding and Vehicle Identification",
+    "location": "Hall C",
+    "startTime": "11:00 AM",
+    "shortDescription": "In-depth insights into VIN decoding and efficient vehicle identification methods."
+  },
+  {
+    "id": 10,
+    "title": "Vehicle Lookup Best Practices",
+    "location": "Auditorium B",
+    "startTime": "1:30 PM",
+    "shortDescription": "Best practices and techniques for accurate and speedy vehicle lookup."
+  }
+]
